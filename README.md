@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there. I'm Keita Yamamoto 👋
 
-<!--
-**Keitayam/Keitayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😃About Me
+- Based in Japan 🇯🇵
+- Learning frontend web development
+- Continuously improving my English and programming skills
 
-Here are some ideas to get you started:
+##　💻Language
+- HTML5 / CSS3
+- Javascript
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️Tools
+- Git＆GitHub
+- WordPress
+
+## 📕Current Learning
+- React
+- Typescript
+
+## 💭Intesested in
+- Frontend engineer
+
+## 🔗Links
+
