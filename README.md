@@ -1,25 +1,25 @@
 # Hi there. I'm Keita Yamamoto 👋
 
-## 😃About Me
+## 😃 About Me
 - Based in Japan 🇯🇵
 - Learning frontend web development
 - Continuously improving my English and programming skills
 
-##　💻Language
+## 💻 Language
 - HTML5 / CSS3
 - Javascript
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## 🛠️Tools
+## 🛠️ Tools
 - Git＆GitHub
 - WordPress
 
-## 📕Current Learning
+## 📕 Current Learning
 - React
 - Typescript
 
-## 💭Intesested in
+## 💭 Intesested in
 - Frontend engineer
 
-## 🔗Links
+## 🔗 Links
 
