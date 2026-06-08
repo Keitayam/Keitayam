@@ -18,8 +18,6 @@
 - Frontend engineer
 - Full-stack engineer
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keitayam&show_icons=true&theme=radical)
-
 ## 🔗 Links
 - Coding Learning　Log
 
